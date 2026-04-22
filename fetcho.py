@@ -8,7 +8,7 @@ print("Enter Link")
 link = input(">>> https://")
 if "." not in link:
     print("Hey that's not a vaild Domain.")
-    pribt(f"Error Code: {domainerr}")
+    print(f"Error Code: {domainerr}")
     exit()
 else:
     pass
