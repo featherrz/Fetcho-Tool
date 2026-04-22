@@ -3,7 +3,7 @@ A lightweight Python-based alternative to curl, optimized for quick domain fetch
 
 ## Run the following commands to start fetching:
 ```BASH (LINUX)
-bash <(curl -s https://raw.githubusercontent.com/featherrz/Fetcho-Tool/refs/heads/main/setup.sh)
+bash <(curl -s https://raw.githubusercontent.com/featherrz/Fetcho-Tool/main/setup.sh)
 ```
 
 ## Error Codes Meaning:
