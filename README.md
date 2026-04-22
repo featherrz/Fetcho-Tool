@@ -8,6 +8,8 @@ bash <(curl -s https://raw.githubusercontent.com/featherrz/Fetcho-Tool/main/setu
 
 ## Error Codes Meaning:
 404: Page not Found (Error)
+
 202: Page Found (Successful)
+
 416: Invaild Domain (Error)
 
