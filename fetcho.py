@@ -1,4 +1,5 @@
-#!/usr/bin/env python                                                                                                                                                    import requests
+#!/usr/bin/env python                                                      
+import requests
 domainerr = 416
 foundsuces = 202
 notfounderr = 404
